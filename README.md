@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/torquuato/torquuato/blob/main/assets/torquato.gif?raw=true"></p>
+<p align="center"><img src="https://github.com/torquuato/torquuato/blob/main/assets/torquato.gif?raw=true" width="300px"></p>
 
 <p align="center"><i>"Ne raillons pas les fous; leur folie dure plus longtemps que la nôtre.... Voila toute la différence."</i><br>-Robert W. Chambers</p>
 
